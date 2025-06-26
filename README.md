@@ -49,6 +49,8 @@ The model was evaluated using:
 Performance was acceptable across all parameters
 
 ---
+## Model Link
+https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
 
 ## Internship Details
 
